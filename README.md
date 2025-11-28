@@ -7,8 +7,8 @@
 
 <h3>About Me</h3>
 <p>
-🔭 I'm currently working on a chat application called <b>TeamChat</b> for <a href="https://text.com" target="_blank" style="text-decoration: none;"><b>Text</b></a>.  
-Check it out: <a href="https://teamchat.text.com/" target="_blank" style="text-decoration: none;">teamchat.text.com</a>
+🔭 I'm currently working on a chat application <b>LiveChat</b> for <a href="https://text.com" target="_blank" style="text-decoration: none;"><b>Text</b></a>.  
+Check it out: <a href="https://text.com/" target="_blank" style="text-decoration: none;">text.com/app</a>
 </p>
 
 <!--
